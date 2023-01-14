@@ -1,0 +1,17 @@
+.container,
+.inner {
+    width: 150px;
+    height: 150px;
+
+    border: 2px solid khaki;
+}
+
+.container {
+    background-color: cyan;
+}
+
+.inner {
+    background-color: lightcoral;
+    /* transform: scale(0.75); */
+    transform: translate(50px, 50px) rotate(30deg) scale(0.5);
+}

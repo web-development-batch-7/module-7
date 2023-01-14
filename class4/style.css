@@ -1,0 +1,12 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid cyan;
+    background-color: coral;
+    transition: width 5s linear, height 5s linear;
+}
+
+.box:hover {
+    width: 400px;
+    height: 400px;
+}

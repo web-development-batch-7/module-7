@@ -1,0 +1,11 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid peru;
+}
+
+#box-3 {
+    color: blue;
+    visibility: hidden;
+    /* display: none; */
+}
